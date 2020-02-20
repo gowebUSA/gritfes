@@ -1,0 +1,952 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+
+<head>
+  <title>iPage  Login</title>
+  <link rel="shortcut icon" href="https://www1.ipage.com/images/icons/favicon_ipg.ico" />
+  <link rel="apple-touch-icon" href="https://www1.ipage.com/images/icons/apple-touch-icons/apple-touch-icon-ipage.png" />
+
+      
+<!-- Start of Fortifi Code -->
+<script type="text/javascript">
+  (function(d,s,i,u) {
+    if (d.getElementById(i)){return;}
+    var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+    n.id=i;n.src='//'+u+'/fp/init/fortifi.js';
+    e.parentNode.insertBefore(n, e);
+  })(document,"script","fortifi-track","track.ipage.com");
+</script>
+<!-- End of Fortifi Code -->
+
+
+
+
+
+
+<script src="https://use.typekit.net/lqs6bct.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Raleway:400,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+
+
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="keywords" content="web hosting, domain names, web site, search engine optimization, hosting, servers">
+  <meta name="viewport" content="initial-scale=1.0,width=device-width">
+  <meta name="revisit-after" content="5 days">
+  <meta name="robots" content="noodp, noydir">
+  <meta name="description" content="Small business web hosting offering additional business services such as: domain name registrations, email accounts, web services, online community resources and various small business solutions.">
+  <meta name="rating" content="General">
+
+
+  <link rel="shortcut icon" href="https://www1.ipage.com/images/icons/favicon_ipg.ico" />
+
+
+
+  
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
+
+
+
+
+
+  <link href="https://plus.google.com/101826539018374982925" rel="publisher" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700,300,300italic' rel='stylesheet' type='text/css'>
+<link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css' rel='stylesheet' />
+<style>.browser-alert.hidden{display: none;}</style>
+    <script src="/generalAppC/javascripts/modernizr/modernizr-2.7.1.custom.20334.js"></script>
+    <script>
+        Modernizr.load([
+          {
+            test: Modernizr.mq('only all'),
+            nope: '/generalAppC/javascripts/respondjs/respond.min.js'
+          }
+        ]);
+    </script>
+    <link rel="stylesheet" type="text/css" href="/generalAppC/javascripts/bootstrap-3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css?bootstrap=1" />
+<link rel="stylesheet" type="text/css" href="/ipage/css/index.css" />
+
+<link rel="stylesheet" type="text/css" href="/xslt/elements/reg-forms.css">
+<link rel="stylesheet" type="text/css" href="/css/login/styles.css">
+<link rel="stylesheet" type="text/css" href="/generalAppC/javascripts/font-awesome/current/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900">
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&#38;l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPRPX8');</script>
+<!-- End Google Tag Manager -->
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<script>
+var monetateClass = "MonetateScript";
+</script>
+
+
+<!-- Begin Monetate tag v8. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">
+var monetateT = new Date().getTime();
+(function() {
+    var p = document.location.protocol;
+    if (p == "http:" || p == "https:") {
+        var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-685a7abb/p/ipage.com/entry.js";
+        m.className = monetateClass;
+        var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
+    }
+})();
+</script>
+<!-- End Monetate tag. -->
+
+
+
+
+
+
+	<script src="/secure/javascripts/yui/utilities/utilities.js"></script>
+	<script src="/secure/javascripts/lightbox.js"></script>
+	<script src="/secure/javascripts/yui/treeview/treeview-min.js"></script>
+	<script src="/secure/javascripts/yui/container/container.js"></script>
+	<script src="/secure/javascripts/dropdown-navigation-ipg-logged-out.js"></script>
+	<script src="/secure/javascripts/widget_behaviors-min.js"></script>
+	<script src="/secure/BL_AJAX.js"></script>
+	<script src="/secure/javascripts/ie_alpha_fix.js"></script>
+	<script src="/secure/javascripts/myopen.js"></script>
+
+
+    <script src='/generalAppC/javascripts/jquery/jquery.min.js'></script>
+  <script src='/generalAppC/javascripts/bootstrap3/js/bootstrap.min.js'></script>
+  <script src='/generalAppC/javascripts/jquery.placeholder-2.0.7.js'></script>
+
+
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-456224-44'],
+          ['_setDomainName', '.ipage.com'],
+          ['_trackPageview'],
+          ['b._setAccount', 'UA-456224-53'],
+          ['b._setDomainName', '.ipage.com'],
+          ['b._trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+<script>
+// JS for Chat
+var V = V || {};
+V.grammar = V.grammar || {
+	chatserver: "helpchat.ipage.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 750);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.onload = function (e) {
+  V.chat.initialize();
+}
+</script>
+
+
+</head>
+
+
+
+<body id="stylesheet1" class="" >
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPRPX8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+  
+
+  <div id="doc2" class=" ipw-1 no-nav site_wrapper">
+
+
+    
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=368075959956497";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <script>
+// JS for Chat
+var V = V || {};
+V.grammar = V.grammar || {
+	chatserver: "helpchat.ipage.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 750);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.onload = function (e) {
+  V.chat.initialize();
+}
+</script>
+
+
+<div id="hd">
+  <div class="status-bar">
+    <div class="wrap status-content">
+      <div class="pull-left">
+        <div class="top-punch">A leader in web hosting since 1998</div>
+      </div>
+      <div class="pull-right">
+        <a href="https://www1.ipage.com/support/" class="links support">Help</a>
+          <div id="currency-code" class="currency-select">
+            <div class="display-inline">
+              <span>USD</span>
+              <span class="caret"></span>
+            </div>
+            <ul class="cur-drop">
+                <li class="cur-opt">GBP</li>
+                <li class="cur-opt">CAD</li>
+                <li class="cur-opt">AUD</li>
+                <li class="cur-opt">EUR</li>
+            </ul>
+          </div>
+
+            <a id="login" href="https://www1.ipage.com/secure/login.html" class="links login-btn">Log in</a>
+
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+  <div class="nav-bar">
+    <div class="wrap nav-contents">
+      <div class="pull-left">
+        <a href="/ipage/index.html" class="logo">
+          <img src="/images/templates/controlpanel/ipage/hd-h1-logo.png" alt="iPage"/>
+        </a>
+
+        <ul class="nav-items">
+          <li><a id="hosting-link" href="/web-hosting">Hosting</a>
+            <!-- <div id="hosting-subnav" class="sub-nav">
+              <div class="sub-nav-links">
+                <ul>
+                  <li><a href="/web-hosting">The Essential Plan</a></li>
+                  <li><a href="/wordpress-hosting">WordPress Hosting</a></li>
+                  <li><a href="/advanced-hosting/vps.bml">VPS Hosting</a></li>
+                  <li><a href="/advanced-hosting/dedi-ppc.bml">Dedicated Hosting</a></li>
+                </ul>
+              </div> 
+              <div class="sub-nav-tooltip">
+                <img src="/images/ipg-img/nav/network-icon.png" />
+                <div class="tooltip-heading">What is web hosting anyway?</div>
+                <div class="tooltip-description">It's like a home for your website. We give you space on a server where you can put your files so the rest of the world can access your website.</div>
+              </div>
+            </div> -->
+          </li>
+          <li><a href="/wordpress-hosting/">Wordpress</a></li>
+          <li><a href="/domains/new-domain-extensions.bml">Domains</a>
+            <!-- <div id="domains-subnav" class="sub-nav">
+              <div class="sub-nav-tooltip">
+                <img src="/images/ipg-img/nav/globe-skeleton.png" />
+                <div class="tooltip-heading">What is a domain?</div>
+                <div class="tooltip-description">It's an address for your website. When a user enters your domain name in a web browser, it directs them to your hosting server in order to view your site.</div>
+              </div>
+            </div> -->
+          </li>
+          <li><a href="/full-service">Marketing Services</a></li>
+          <li><a href="/about-us">About</a></li>
+        </ul>
+      </div>
+      <div class="contact-block pull-right">
+
+            <div class="phone-support-text">24/7 PHONE SUPPORT</div>
+            <a href="#chat" class="large-live-chat gtm-chat">
+              <span class="chat-icon-large"></span>
+              <span class="live-text">Live Chat</span>
+            </a>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- No Support Message for IE9 and 10 - FED-8254 -->
+  <script type="text/javascript" src="/generalAppC/javascripts/js.cookie.js"></script>
+
+  <div class="browser-alert hidden">
+      <div class="alert" data-alert="alert">
+          <button type="button" class="close" data-dismiss="alert" onclick="browserAlert.hideMe()">x</button>
+          <p class="ie-browserhappy">
+              The browser version you are using is <strong>no longer supported</strong>. Please <a href="http://browsehappy.com/" target="_blank">upgrade</a> for the best site experience.
+          </p>
+      </div>
+  </div>
+
+  <script type="text/javascript" src="/generalAppC/javascripts/ie-browser-alert.js"></script>
+  <!-- /End - No Support Message for IE9 and 10 - FED-8254 -->
+
+</div>
+<script type="text/javascript">
+  (function(){
+    var cookie_name = "Currency",
+        currencyOptElems = document.getElementsByClassName('cur-opt');
+
+    for(var i = 0; i < currencyOptElems.length; i++){
+      currencyOptElems[i].addEventListener('click', function(e){
+        var isDubdomain = [],
+            currency = this.innerHTML;
+
+        isDubdomain = location.hostname.split('.');
+
+        if (! /^(USD|GBP|CAD|AUD|EUR)$/.test(currency)) {
+          currency = 'USD';
+        }
+
+        if (isDubdomain.length == 2) {
+          document.cookie=cookie_name+"="+currency+"; expires=Monday, 04-Apr-2020 05:00:00 GMT;  path=/; domain=."+location.hostname.split('.').splice(0,3).join('.');
+        } else {
+          document.cookie=cookie_name+"="+currency+"; expires=Monday, 04-Apr-2020 05:00:00 GMT;  path=/; domain=."+location.hostname.split('.').splice(1,4).join('.');
+        }
+
+        window.onbeforeunload=null;
+        window.location.reload();
+
+      }, false);
+    }
+  })();
+</script>
+
+
+
+        <div id="bd">
+          
+
+    <div id="main" class="main">
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="../generalAppC/foundation/marketingVPV.js"></script>
+
+<script>
+window.document.addEventListener('DOMContentLoaded', function(event) {
+ function isUrlOnError(url) {
+  // really naive check because we know webmail errors will insert a query string
+  return url.includes('?')
+ }
+
+ function parseErrorUrl(url) {
+  return (url.includes('?') && url.includes('#')) ? 'controlpanel' : 'webmail'
+ }
+
+ function parseUrl(url) { 
+   var urlMatch = url.match(/#(controlpanel|webmail)/g);
+   return (Array.isArray(urlMatch)) ? urlMatch[0].split('#')[1] : 'controlpanel';
+ }
+
+ var url             = window.location.href;
+ var getLocationFrom = isUrlOnError(url) ? parseErrorUrl : parseUrl;
+ 
+ FOUNDATION_VPV.fireWithURL(getLocationFrom(url), {event: 'vpv', pageClass: 'login'});
+})
+</script>
+
+<script>
+    (function() {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '320951848054071']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=320951848054071&amp;ev=NoScript" /></noscript>
+
+
+
+
+
+<div class="row-fluid">
+ <div class="span12 main-wrapper">
+    <div id="main-bd" class="bd">
+
+        <style type="text/css" media="screen">
+            #hd #masthead h2, #login-links, #hd #nav {display: none;}
+        </style>
+        <script>jQuery( document ).ready(function() {});</script>
+<script type="text/javascript" src="../generalAppC/foundation/marketingVPV.js"></script>
+
+	
+
+
+
+        <div id="login-content">
+            <h2 class="login-header text-center">Log into your account</h2>
+
+	<div class="sign-up foundation-pages-only"><a href="https://www.ipage.com/registration?flow=hos&addItem=1&type=Shared&level=L1&action=add&term=36" data-element-location="body" data-element-type="link" data-element-label="sign_up_now" data-qe-id="signUpNow">Not a customer? Sign up now!</a></div>
+            <div class="well login-forms">
+                <ul class="nav nav-tabs nav-justified" id="login-tabs">
+                    <li class="active" onclick="FOUNDATION_VPV.fireWithARGS('login', 'control_panel', {'event': 'vpv', pageClass: 'login'})"><a data-toggle="tab" data-target="#controlpanel" data-qe-id="controlPanelTab">Control Panel</a></li>
+                    <li class="" ><a data-toggle="tab" data-target="#webmail" data-qe-id="webmailTab" onclick="FOUNDATION_VPV.fireWithARGS('login', 'webmail', {'event': 'vpv', pageClass: 'login'})">Webmail</a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="controlpanel" class="text-center tab-pane fade in active">
+                        <div class="container">
+                                <form method="POST" name="login" action="https://www1.ipage.com/secureLogin"><input type='hidden' name='__token_timestamp__' value='1582223707'><input type='hidden' name='__token_val__' value='71b4c2d480bd7d556812f23d328cefd3'>
+                                <div class="input-group input-group-lg">
+                                    <span class="input-group-addon" id="account-username"><span class="icon"></span></span>
+                                    <label class="foundation-pages-only" for="name">Username</label>
+                                    <input type="text" name="credential_0"  value="" size="100" maxlength="255" class="form-control restrict-yet" placeholder="Username or domain" aria-describedby="account-username" data-qe-id="cpUsernameTextInput"/>
+                                </div>
+                                <div class="input-group input-group-lg">
+                                    <span class="input-group-addon" id="account-password"><span class="icon"></span></span>
+                                    <label class="foundation-pages-only" for="password">Password</label>
+                                    <input type="password" name="credential_1" size="100" maxlength="45" autocomplete="off" class="form-control" placeholder="Password" aria-describedby="account-password" data-qe-id="cpPasswordTextInput"/>
+                                </div>
+                                <a class="forgot-password pull-right" href="https://www1.ipage.com/utils/resend-act-email.html" data-element-location="body" data-element-type="link" data-element-label="forgot_password" data-qe-id="forgotPasswordTextLink">Forgot Password?</a>
+                                <button class="gtm_login btn btn-lg btn-primary btn-block" type="submit" id="controlPanelLogin" data-element-location="body" data-element-type="button" data-element-label="login" data-qe-id="controlPanelLogin">Log in</button>
+                                <input type="hidden" name="destination" value="https://www1.ipage.com/controlpanel/FileManager/m.cmp?cmd=getfile&#038;p=gritfes%2Fvcard%2Findex.html" data-qe-id="cpDestinationHiddenInput"/>
+                            </form>
+                            <div class="service-login-container" >
+                                <a class="google-signup gtm_login  btn btn-info foundation-google-signin" href="https://accounts.google.com/o/oauth2/auth?client_id=426705788665-604v9jcu0h8som18dkd02bohh7g6mphq.apps.googleusercontent.com&amp;response_type=code&amp;scope=email+profile&amp;redirect_uri=https%3A%2F%2Fwww1.ipage.com%2FsecureLogin&amp;state=google_yt41JrBYo0PkQFsey17etavIQCCGs8&amp;access_type=offline" data-element-location="body" data-element-type="link" data-element-label="sign_in_google" data-gtm-type="google" data-qe-id="signInWithGoogleFoundationBrand">Sign in with Google</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="webmail" class="text-center tab-pane fade ">
+                        <div class="container">
+                            <form method="POST" name="webmail-login" class="webmail-login" action="/secure/login.html?showWebmailTab=1"><input type='hidden' name='__token_timestamp__' value='1582223707'><input type='hidden' name='__token_val__' value='71b4c2d480bd7d556812f23d328cefd3'>
+                                <div class="input-group input-group-lg">
+                                    <span class="input-group-addon" id="email-address"><span class="icon"></span></span>
+                                    <label class="foundation-pages-only" for="address">Email address</label>
+                                    <input type="text" id="address" data-qe-id="emailAddressWebmailLoginTextInput" maxlength="255" size="100" name="address" value="" class="form-control" placeholder="Email address" aria-describedby="email-address"/>
+                                </div>
+                                <div class="input-group input-group-lg">
+                                    <span class="input-group-addon" id="webmail-password"><span class="icon"></span></span>
+                                    <label class="foundation-pages-only" for="password">Password</label>
+                                    <input type="password" id="password" data-qe-id="passwordWebmailLoginTextInput" autocomplete="off" maxlength="255" size="100" name="password" class="form-control" placeholder="Password" aria-describedby="webmail-password"/>
+                                </div>
+                                <a class="forgot-password pull-right" href="#" data-toggle="modal" data-target="#webmail-modal" data-qe-id="forgotPasswordWebmail">Forgot Password?</a>
+                                <button class="btn btn-lg btn-primary btn-block" type="submit" name="Login" value="Login" id="webmailLogin" data-qe-id="buttonLogIntoWebmail">Log into Webmail</button>
+                                <input  type ="submit" id="manage-mailbox" data-element-location="body" data-element-type="link" data-element-label="manage_mailbox" data-qe-id="manageMailboxSubmitInput" name="Log In" value="Manage Mailbox Settings" class="btn btn-link manage-mailbox"/>
+                                <input type="hidden" name="destination" value="" data-qe-id="hiddenDestinationInput" />
+                                <input type="hidden" name="m" data-qe-id="hiddenMinput" value="" />
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="text-center sign-up not-foundation-pages"><a href="/ipage/hosting.bml" data-qe-id="signUpNowNot37">Not a customer? Sign up now!</a></div>
+                </div>
+            </div>
+
+            <div class="gmail-for-work" style="display:none;">
+                <h1><i class="g-icon g-gmail"></i>Switch to G Suite by Google</h1>
+                <ul>
+                    <li>Email with your domain on Gmail's intuitive interface</li>
+                    <li>Send and receive emails fast with outstanding deliverability</li>
+                    <li>Create spreadsheets, docs, calendars and more &#8212; accessing them anytime, from any device.</li>
+                </ul>
+                <h2><i class="g-icon g-apps"></i>G Suite</h2>
+                <div class="cta">
+                    <h2>Only $6.00</h2>
+                         <a class="btn btn-primary"
+                            data-element-locaiton="body"
+                            data-element-type="button"
+                            data-element-label="buy_now_gsuite"
+                            data-qe-id="addGsuiteToAccount"
+                            href="/product/google-apps/lp/google-apps-for-work.bml?cid=2103">Add to Your Account
+                         </a>
+                    <p>Automatically Renews Monthly</p>
+                </div>
+            </div>
+        </div>
+        <div class="disclaimer">
+            <p><b>Note:</b> To log in to iPage, you will need to have cookies enabled on your browser. We are committed to <a href="https://www.endurance.com/privacy/privacy" target="_blank" data-qe-id="yourPrivacyLink">your privacy</a>, and cookies enable us to provide you with a personalized experience and better service. By logging in and using your account you are agreeing to iPage's <a href="https://www.endurance.com/privacy/privacy" target="_blank" data-qe-id="privacyPolicy">Privacy Policy</a> and <a href="/legal/index.bml" target="_blank" data-qe-id="tosLink">Terms of Service</a>.</p>
+            <p><strong><a href="https://endurance.clarip.com/dsr/create?type=3" target="_blank">Do Not Sell My Info</a></strong></p>
+        </div>
+
+            <!-- Modal -->
+            <div class="modal fade" id="webmail-modal" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close" data-qe-id="closeButton"><span aria-hidden="true">&#215;</span></button>
+                            <h1 class="modal-title" id="myModalLabel">Forgot Password?</h1>
+                        </div>
+                        <div class="modal-body">
+                            <div class="accordion" id="webmail-accordion">
+                                <div class="accordion-grp">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#webmail-accordion" href="#collapseOne" data-qe-id="webmailPasswordAccordion">
+                                            <span class="fa fa-chevron-down fa-2"></span>
+                                                Want to update your Webmail Password?
+                                        </a>
+                                    </div>
+                                    <div id="collapseOne" class="accordion-body in">
+                                        <div class="accordion-inner">
+                                            To change your email account settings, please log into the <a href="/secure/login.html" data-qe-id="changeEmailAccountSettings">Control Panel</a> first. You may update your settings by clicking on "MailCentral" in the Email section of your control panel.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-grp">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#webmail-accordion" href="#collapseTwo" data-qe-id="unableToLogInAccordion">
+                                        <span class="fa fa-chevron-right fa-2"></span>
+                                            Unable to log into the Control Panel?
+                                        </a>
+                                    </div>
+                                    <div id="collapseTwo" class="accordion-body collapse">
+                                        <div class="accordion-inner">
+                                            If you are having trouble logging into the Control Panel, please contact your Account Administrator (owner/webmaster). If you are the Account Administrator, please contact our <a href="#chat">live chat team</a> or give us a call at 877-472-4399 to have your password reset.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-grp">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#webmail-accordion" href="#collapseThree" data-qe-id="stillHavingTroubleAccoordion"></a>>
+                                            <span class="fa fa-chevron-right fa-2"></span>
+                                                Still having trouble?
+                                            </a>
+                                    </div>
+                                    <div id="collapseThree" class="accordion-body collapse">
+                                        <div class="accordion-inner">
+                                            Please contact our <a href="#chat" data-qe-id="liveChatAnchorLink">live chat team</a> or give us a call at 877-472-4399.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div><!-- /#main-bd .bd -->
+    </div><!-- /.span9 .main-wrapper -->
+ <div class="span3"><!-- right margin --></div>
+</div>
+
+<script>
+    if (!String.prototype.includes) {
+        String.prototype.includes = function() {
+            'use strict';
+            return String.prototype.indexOf.apply(this, arguments) !== -1;
+        };
+    }
+    $( '.restrict-yet' ).keyup(function() {
+        var str = $(this).val();
+        var is_yet = str.includes('@');
+        if(is_yet){
+            $('#controlPanelLogin').prop('disabled', true);
+            $(this).attr('data-content','Please use your domain name or username in this field');
+            $(this).popover('show');
+        }else{
+            $('#controlPanelLogin').prop('disabled', false);
+            $(this).attr('data-content','');
+            $(this).popover('hide');
+        }
+    });
+</script>
+
+<script>
+    window.document.addEventListener('DOMContentLoaded', function(event) {
+        //for finding IE9
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf('MSIE ');
+
+        // Control-panel credential text validation
+        $('#controlPanelLogin').click(function(e) {
+            var cPanelLoginForm = $(this).closest("form");
+            var username = cPanelLoginForm.find('input[name="credential_0"]').val();
+            var password = cPanelLoginForm.find('input[name="credential_1"]').val();
+
+            var usernamePattern = /^[a-z0-9-\.:]+$/i;
+            var usernameRegex = new RegExp(usernamePattern);
+
+            if (username.length == 0 ) {
+                alert('Username cannot be empty');
+                return false;
+            }
+            if (usernameRegex.test(username) == false) {
+                alert('Invalid characters in username.');
+                return false;
+            }
+            if (password.length == 0 ) {
+                alert('Password cannot be empty');
+                return false;
+            }
+        });
+
+
+        //Hide the form and G Suite banner on the redirect
+        var errorMessage = $('.error_msg').html();
+        if(/Click here to continue/i.test(errorMessage)) {
+            $('#login-content').hide();
+        }
+
+        //hide the error/success messages on changing the tabs
+        $('#login-tabs a[data-toggle="tab"]').click(function() {
+            $('.error').hide();
+            $('.error_msg').hide();
+            $('.success_msg').hide();
+            $('.input-group').removeClass('invalid');
+            $('#controlpanel .input-group').popover('destroy');
+        });
+
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+            var target = $(e.target).attr('data-target') // activated tab
+
+            if(parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10) !== 9){
+                var url = window.location.search;
+                var pageUrl = location.pathname;
+                if(/showWebmailTab=1/i.test(url)) {
+                    pageUrl = pageUrl + '?showWebmailTab=1';
+                }
+                window.history.pushState('', "iPage  Login", pageUrl + target);
+            } else {
+                window.location.hash = target;
+                setTimeout(function() {
+                    window.scrollTo(0, 0);
+                }, 1);
+            }
+
+            if($('.gmail-for-work').length) {
+                if (target == '#webmail') {
+                    dataLayer.push({'pageType': 'flow', 'flow': 'webmail', 'step': 'login'});
+                    $('.gmail-for-work').show();
+                } else {
+                    dataLayer.push({'pageClass': 'login', 'pageType': 'login'});
+                    $('.gmail-for-work').hide();
+                }
+            }
+        });
+
+        $('.login-forms input').placeholder();
+        $('#controlpanel .input-group').popover('show');
+
+        var hash = window.location.hash;
+
+        if(parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10) !== 9){
+            var url = window.location.search;
+            var pageUrl = location.pathname;
+
+            if(/showWebmailTab=1/i.test(url)) {
+                pageUrl = pageUrl + '?showWebmailTab=1';
+            }
+            window.history.pushState('', "iPage  Login", pageUrl);
+        }
+
+        if(hash) {
+            $('#login-tabs a[data-target="' + hash + '"]').tab('show');
+            setTimeout(function() {
+                window.scrollTo(0, 0);
+            }, 1);
+        }
+
+        $('.login-forms input.form-control').on('focus',function() {
+            $('.input-group').removeClass('invalid');
+            $('#controlpanel .input-group').popover('destroy');
+        });
+
+        $('.accordion-toggle').click(function () {
+            $(this).find('span').toggleClass('fa-chevron-down fa-chevron-right');
+        });
+        $('#manage-mailbox').click(function(e) {
+            e.preventDefault();
+            var mailAdminForm = $(this).closest("form");
+            mailAdminForm.attr('name', 'login');
+            mailAdminForm.attr('action', '/mailLogin');
+            mailAdminForm.find('input[name="destination"]').val('/mailadmin/index.bml?manage=1');
+            mailAdminForm.find('#address').attr('name', 'credential_0');
+            mailAdminForm.find('#password').attr('name', 'credential_1');
+            mailAdminForm.submit();
+        });
+    });
+</script>
+
+
+
+            
+          </div>
+        </div>   
+        <div id="footer">
+  <div class="wrap">
+    <div class="copy-box">
+      <div class="toes-link">
+        <ul>
+          <li class="copyright">&#169; <script type="text/javascript">document.write(new Date().getFullYear());</script> iPage. All rights reserved.</li>
+          <li><a href="/legal/">Terms of Service</a></li>
+          <li>|</li>
+          <li><a href="https://endurance.clarip.com/privacycenter/?brand=ipage" target="_blank">Privacy</a></li>
+          <li>|</li>
+          <li><a href="/support/sitemap.bml">Sitemap</a></li>
+        </ul>
+      </div>
+      <div class="social-foot">
+        <ul>
+          <li><a href="//www.facebook.com/iPage/" rel="noopener" target="_blank" data-gtm-name="facebook" class="gtm_social"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="//twitter.com/iPage" rel="noopener" target="_blank" data-gtm-name="twitter" class="gtm_social"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="//www.pinterest.com/iPageHosting/" rel="noopener" target="_blank" data-gtm-name="pinterest" class="gtm_social"><i class="fa fa-pinterest"></i></a></li>
+        </ul>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <!--div class="disclaim">
+      <p>* The introductory prices are for the first term of service only and automatically <a href="/help/article/hosting-renewal-prices">renew at the regular rate.</a> Note: if you register a free domain through us and wish to cancel your account, there is no refundable $15 domain fee if you would like to keep your domain.</p>
+    </div-->
+  </div>
+</div>
+<script type="text/javascript"> var FinalLPAccount = (typeof(AltLPAccount) != "undefined"? AltLPAccount : "66651396");</script>
+
+<script type="text/javascript">
+if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
+if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = []; }
+if (typeof(EIGtoLP) != "undefined") { for (key in EIGtoLP) { lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = key + '=' + EIGtoLP[key]; } }
+</script>
+<!-- End Monitor Tracking Variables  -->
+
+    
+	<div id="alert-wrapper">
+
+		<div id="alertBar" class="alertBar fixed-bottom-disclaimer" style="display:none;">
+		
+		   <div id="menu-text">
+				<style>
+					#menu-text {
+						padding: 10px;
+					}
+					.hide-disclaimer {
+						right: 60px;
+						bottom: 20px;
+					}
+				</style>
+
+				<script type="text/javascript" async="true" src="//consent.truste.com/notice?domain=ipage.com&#038;c=menu-text"></script>
+				<script>
+					<!--
+				  	function getCookie(name) {
+						var value = "; " + document.cookie;
+						var parts = value.split("; " + name + "=");
+						if (parts.length == 2) return parts.pop().split(";").shift();
+					}
+
+				 	var ourtruste = setInterval( function() {
+						if (window.truste !== undefined && getCookie('notice_behavior') !== "none"){
+							document.getElementById('alertBar').style.display = 'block';
+							clearInterval(ourtruste);
+						} else if (getCookie('notice_behavior') === "none") {
+							clearInterval(ourtruste);
+						}
+				  	}, 200);
+
+					$(document).ready(function() {
+						$('.hide-disclaimer').on('click', function() {
+							$('#alertBar').hide();
+						})
+					});
+					-->
+				</script>
+		
+		
+		
+				<div id="cookie-disclaimer">
+					This site uses cookies to enhance your experience. By continuing to use this site you accept their use.<br/>
+					Click the Cookie Preferences button learn more about cookies.
+				</div>
+		
+		   </div>
+		   <a class="hide-disclaimer">Hide <i class="fa fa-times"></i></a>
+		</div>
+
+	</div>
+
+
+  
+
+
+
+ </div><!-- #doc2 [.yui-t2|landing-page ipw-1 no-nav|ipw-1 no-nav] -->
+  
+
+
+  <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded)
+{ var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+_fbq.push('addPixelId', '320951848054071');
+})();
+window._fbq = window._fbq || [];
+window._fbq.push('track', 'PixelInitialized', {});
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=320951848054071&#38;ev=NoScript" /></noscript>
+
+<script type="text/javascript"> var FinalLPAccount = (typeof(AltLPAccount) != "undefined"? AltLPAccount : "66651396");</script>
+
+<script type="text/javascript">
+if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
+if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = []; }
+if (typeof(EIGtoLP) != "undefined") { for (key in EIGtoLP) { lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = key + '=' + EIGtoLP[key]; } }
+</script>
+<!-- End Monitor Tracking Variables  -->
+
+
+
+    
+	<div id="alert-wrapper">
+
+		<div id="alertBar" class="alertBar fixed-bottom-disclaimer" style="display:none;">
+		
+		   <div id="menu-text">
+				<style>
+					#menu-text {
+						padding: 10px;
+					}
+					.hide-disclaimer {
+						right: 60px;
+						bottom: 20px;
+					}
+				</style>
+
+				<script type="text/javascript" async="true" src="//consent.truste.com/notice?domain=ipage.com&#038;c=menu-text"></script>
+				<script>
+					<!--
+				  	function getCookie(name) {
+						var value = "; " + document.cookie;
+						var parts = value.split("; " + name + "=");
+						if (parts.length == 2) return parts.pop().split(";").shift();
+					}
+
+				 	var ourtruste = setInterval( function() {
+						if (window.truste !== undefined && getCookie('notice_behavior') !== "none"){
+							document.getElementById('alertBar').style.display = 'block';
+							clearInterval(ourtruste);
+						} else if (getCookie('notice_behavior') === "none") {
+							clearInterval(ourtruste);
+						}
+				  	}, 200);
+
+					$(document).ready(function() {
+						$('.hide-disclaimer').on('click', function() {
+							$('#alertBar').hide();
+						})
+					});
+					-->
+				</script>
+		
+		
+		
+				<div id="cookie-disclaimer">
+					This site uses cookies to enhance your experience. By continuing to use this site you accept their use.<br/>
+					Click the Cookie Preferences button learn more about cookies.
+				</div>
+		
+		   </div>
+		   <a class="hide-disclaimer">Hide <i class="fa fa-times"></i></a>
+		</div>
+
+	</div>
+
+
+  
+
+
+</body>
+</html>
+
+
+
+
+
